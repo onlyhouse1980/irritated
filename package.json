@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-mdb",
+  "version": "4.25.3",
+  "description": "Orchard Beach Community Group",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Ryan Nyberg",
+  "repository": "https://github.com/onlyhouse1980/nuked",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-source-maps": "^0.0.3",
+    "express": "^4.17.1",
+    "graphicsmagick": "^0.0.1",
+    "mdbreact": "^4.25.5",
+    "next": "^9.3.4",
+    "next-compose-plugins": "^2.2.0",
+    "next-fonts": "^1.0.3",
+    "next-images": "^1.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.3.9"
+  }
+}
