@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.js",
+  "/api/people/[meter_serialNum]": "pages/api/people/[meter_serialNum].js",
+  "/api/people": "pages/api/people.js",
+  "/articles": "pages/articles.js",
+  "/contact": "pages/contact.js",
+  "/executive": "pages/executive.js",
+  "/": "pages/index.js",
+  "/person/[meter_serialNum]": "pages/person/[meter_serialNum].js",
+  "/register": "pages/register.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
